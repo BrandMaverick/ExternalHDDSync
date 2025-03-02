@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUA5jvANej8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sanjay Garg\\Desktop\\Code\\ExternalHDDSync\\HDDSync\\HDDSync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sanjay Garg\\.nuget\\packages\\system.codedom\\9.0.2\\system.codedom.9.0.2.nupkg.sha512",
+    "C:\\Users\\Sanjay Garg\\.nuget\\packages\\system.management\\9.0.2\\system.management.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
